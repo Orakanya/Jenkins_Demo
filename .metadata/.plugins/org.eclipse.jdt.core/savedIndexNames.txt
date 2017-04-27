@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+C:\Users\ingin\Desktop\jenkins_test\.metadata\.plugins\org.eclipse.jdt.core
+3807511177.index
+3025754092.index
+442984613.index
